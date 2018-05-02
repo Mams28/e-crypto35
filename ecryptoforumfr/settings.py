@@ -30,13 +30,13 @@ _ = lambda s: s
 SECRET_KEY = 'fflcqjrv-^(_n)(5r-++k$**9p3uzrp-wwn^$ibo1w^$sd@iv0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
 # A list of strings representing the host/domain names that this Django site can serve.
 # If you are unsure, just enter here your domain name, eg. ['mysite.com', 'www.mysite.com']
 
-ALLOWED_HOSTS = ['.83.166.144.160']
+ALLOWED_HOSTS = ['83.166.144.160']
 
 
 # Database
