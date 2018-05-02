@@ -36,7 +36,7 @@ DEBUG = False
 # A list of strings representing the host/domain names that this Django site can serve.
 # If you are unsure, just enter here your domain name, eg. ['mysite.com', 'www.mysite.com']
 
-ALLOWED_HOSTS = ['www.ecryptoforum.fr']
+ALLOWED_HOSTS = ['www.ecryptoforum.fr', '.ecryptoforum.fr']
 
 
 # Database
