@@ -46,10 +46,10 @@ DATABASES = {
     'default': {
         # Misago requires PostgreSQL to run
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'ecryptoforumfr',
-        'USER': 'admin',
-        'PASSWORD': '01011952',
-        'HOST': '83.166.144.160',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': 'localhost',
         'PORT': 5432,
     }
 }
