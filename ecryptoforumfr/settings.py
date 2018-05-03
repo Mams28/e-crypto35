@@ -27,7 +27,7 @@ _ = lambda s: s
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'fflcqjrv-^(_n)(5r-++k$**9p3uzrp-wwn^$ibo1w^$sd@iv0'
+SECRET_KEY = '*9-pu*u8$6qei0stuxezr9(c9huqx()gpid@#+i#x_&m#upya!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
@@ -36,7 +36,7 @@ DEBUG = False
 # A list of strings representing the host/domain names that this Django site can serve.
 # If you are unsure, just enter here your domain name, eg. ['mysite.com', 'www.mysite.com']
 
-ALLOWED_HOSTS = ['www.ecryptoforum.fr', '.ecryptoforum.fr']
+ALLOWED_HOSTS = ['http://83.166.144.160', 'www.ecryptoforum.fr', '.ecryptoforum.fr']
 
 
 # Database
