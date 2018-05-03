@@ -30,7 +30,7 @@ _ = lambda s: s
 SECRET_KEY = '*9-pu*u8$6qei0stuxezr9(c9huqx()gpid@#+i#x_&m#upya!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 
 # A list of strings representing the host/domain names that this Django site can serve.
